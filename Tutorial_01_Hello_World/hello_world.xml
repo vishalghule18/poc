@@ -1,16 +1,16 @@
 
 <!-- Tutorial_01_Hello_World (XML) -->
-<!--<Module specificationVersion="2">
+<Module specificationVersion="2">
 	<ModulePrefs title="Tutorial_01_Hello_World">
 	</ModulePrefs>
-	<Content type="html">
-		<![CDATA[
-			Hello, world!
-		]]>
-	</Content>
-</Module>-->
+	<script type="text/javascript"> 
+ <![CDATA[
+hi
+]]>
+</script>
+</Module>
 
-<Module specificationVersion="2">
+<!--<Module specificationVersion="2">
 <script id="tinyhippos-injected"/>
 <ModulePrefs title="SAP Lumira URL Gadget" height="600" author="Marc Bell" description="Embeds a Lumira data visualization within an OpenSocial URL Gadget">
 <Link rel="Icon" href="icons/00_analytics_20x20.png"/>
@@ -18,4 +18,4 @@
 <Link rel="LargeIcon" href="icons/02_analytics_172x200.png"/>
 </ModulePrefs>
 <Content type="url" href="HCP_Lumira.html"/>
-</Module>
+</Module>-->
